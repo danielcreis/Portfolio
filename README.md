@@ -1,12 +1,13 @@
-# PortFolio Teste
-Fazendo um portfolio para testar minhas habilidades em NextJS e tailwind.
+# Portfolio Teste
+Fazendo um portfolio para testar minhas habilidades em NextJS e tailwind.7
 
+![image](https://github.com/danielcreis/Portfolio/assets/75449506/e88fcfb4-9f31-4d1b-8733-80393843b124)
 
 
 <h1 align="center"> Portfolio Teste </h1>
 
 <p align="center">
-Criando com NEXTJS <br/>
+Criado com NEXTJS <br/>
 </p>
 
 <p align="center">
@@ -36,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto é um portfolio responsivo com Talwind e Next JS.
 
-- [Acesse o projeto finalizado, online](https://pomodoro-timer-wheat-nu.vercel.app)
+- [Acesse o projeto finalizado, online](https://portfolio-ten-taupe-26.vercel.app)
 
 
 ## :memo: Licença
