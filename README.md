@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Daniel :wave: [Participe da nossa comunidade!](https://discord.gg/qjJqwrph)
+Feito com ♥ by Daniel :wave: [Participe da minha comunidade!](https://discord.gg/qjJqwrph)
