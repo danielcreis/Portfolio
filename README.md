@@ -1,10 +1,10 @@
-# Portfolio Teste
-Fazendo um portfolio para testar minhas habilidades em NextJS e tailwind.7
+# Portfolio
+Fiz meu portfolio para testar minhas habilidades em NextJS e tailwind.
 
 ![image](https://github.com/danielcreis/Portfolio/assets/75449506/e88fcfb4-9f31-4d1b-8733-80393843b124)
 
 
-<h1 align="center"> Portfolio Teste </h1>
+<h1 align="center"> Portfolio</h1>
 
 <p align="center">
 Criado com NEXTJS <br/>
@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Daniel :wave: [Participe da nossa comunidade!](https://discord.gg/QvTzMj9n)
+Feito com ♥ by Daniel :wave: [Participe da nossa comunidade!](https://discord.gg/qjJqwrph)
